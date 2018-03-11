@@ -20,14 +20,18 @@
     - İlgili platformun CLR ve JIT derleyicileriyle bu kodlar tüm platformlarda çalıştırılabilir.
     - Farklı dillerle yazılmış kodlar, birbirine referans olarak verilebilir ve kütüphane olarak kullanılabilir.
 
-![.NET Yapısı](assets/01.jpg)
+<center>
+    <img src="assets/01.jpg" alt=".NET Mimarisi" height="250" />
+</center>
 
 ## 02 – CLR – Common Language Runtime Nedir?
 - Ortak dil çalışma zamanı
 - .NET platformunun bir alt yapısı olarak karşımıza çıkar.
 - CLR, MSIL kodlarını ilgili platformda çalıştırmaya yarar. Her platform için geliştirilebileceği için, platform bağımsız kod yazmaya olanak tanır.
 
-![](assets/02.PNG)
+<center>
+    <img src="assets/02.PNG" alt="CLR Nedir?" height="250" />
+</center>
 
 ## 03 – JIT ( Just In Time ) Compiler
 - CLR ile birlikte MSIL Assebly kodlarının platformda çalışmasını sağlarlar.
