@@ -30,7 +30,7 @@
 - CLR, MSIL kodlarını ilgili platformda çalıştırmaya yarar. Her platform için geliştirilebileceği için, platform bağımsız kod yazmaya olanak tanır.
 
 <p align="center">
-    <img src="assets/02.PNG" alt="CLR Nedir?" height="250" />
+    <img src="assets/02.PNG" alt="CLR Nedir?" height="300" />
 </p>
 
 ## 03 – JIT ( Just In Time ) Compiler
