@@ -59,7 +59,9 @@ Console.ReadKey();
 
 ## Enumeration ( Numaralandırıcılar )
 
-- Program içinde kullanılan sabitlerin anlamdırılması amacıyla sabitlere isimler verilerek bir grup (enum) altında toplayabiliriz. 
+- Program içinde kullanılan sabitlerin anlamdırılması amacıyla sabitlere isimler verilerek bir grup (enum) altında toplayabiliriz.
+- Sabitlerin isimlerinin, değişken isimlendirme kurallarına uyması gerekmektedir.
+- Enum ifadeleri daha çok fonksiyonlar oluşturulurken verilen bir parametrenin sınırlandırılması için kullanılır. 
 
 ```cs
 static void Main(string[] args)
@@ -76,9 +78,9 @@ static void Main(string[] args)
 enum Gunler
 {
     pazartesi = 1,
-    salı = 0,
-    çarşamba = 2,
-    perşembe,
+    sali = 0,
+    carsamba = 2,
+    persembe,
     cuma,
     cumartesi,
     pazar
