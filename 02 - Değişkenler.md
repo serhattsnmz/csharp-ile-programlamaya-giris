@@ -1,4 +1,4 @@
-# DEĞİŞKENLER
+## DEĞİŞKENLER
 - Herhangi bir girdinin ram üzerinde saklanmasını ve daha sonra kullanılmasını sağlar.
 - Değişkenleri, veriyi belli bir isimle saklayan bir kutu olarak düşünebiliriz.
 - Değişkenler C# ortamında türleri (veri tipleri) ile belirtilir.
@@ -57,7 +57,7 @@ else
 Console.ReadKey();
 ```
 
-## Enumeration ( Numaralandırıcılar )
+### Enumeration ( Numaralandırıcılar )
 
 - Program içinde kullanılan sabitlerin anlamdırılması amacıyla sabitlere isimler verilerek bir grup (enum) altında toplayabiliriz.
 - Sabitlerin isimlerinin, değişken isimlendirme kurallarına uyması gerekmektedir.

@@ -1,6 +1,6 @@
-# C# ve .NET’E GİRİŞ
+## C# ve .NET’E GİRİŞ
 
-## 01 – MSIL (Mic. Intermediate Language) veya CIL (Common Intermadiate Language)
+### 01 – MSIL (Mic. Intermediate Language) veya CIL (Common Intermadiate Language)
 
 - Eski yapılarda, dillerle yazılan kodlar derlendiği zaman direk olarak makine diline ( Assembly) çevrilirdi.
 - .NET platformuyla birlikte, diller artık direk makine diline değil, CIL denen ortak bir dile çevrilmeye başlandı.
@@ -24,7 +24,7 @@
     <img src="assets/01.jpg" alt=".NET Mimarisi" height="250" />
 </p>
 
-## 02 – CLR – Common Language Runtime Nedir?
+### 02 – CLR – Common Language Runtime Nedir?
 - Ortak dil çalışma zamanı
 - .NET platformunun bir alt yapısı olarak karşımıza çıkar.
 - CLR, MSIL kodlarını ilgili platformda çalıştırmaya yarar. Her platform için geliştirilebileceği için, platform bağımsız kod yazmaya olanak tanır.
@@ -33,7 +33,7 @@
     <img src="assets/02.PNG" alt="CLR Nedir?" height="300" />
 </p>
 
-## 03 – JIT ( Just In Time ) Compiler
+### 03 – JIT ( Just In Time ) Compiler
 - CLR ile birlikte MSIL Assebly kodlarının platformda çalışmasını sağlarlar.
 - Her platforma özel olarak üretilmesi gereklidir. 
 - 3 çeşidi vardır : 
@@ -44,7 +44,7 @@
     - Pre JIT
         - Büyük programlar içindir ve ön derleme yaparak perfonmasın arttırılmasını sağlar.
 
-## 04 – VS İndirme ve VS Ortamı
+### 04 – VS İndirme ve VS Ortamı
 - İndirme :
     - https://www.visualstudio.com/tr/downloads/
 - Pencere:
@@ -56,7 +56,7 @@
     - Output
     - TaskList
 
-## 05 – Console Application Nedir?
+### 05 – Console Application Nedir?
 - Basit bir console app oluşturma
 - Solution ve Project kavramları
 - Bir solition içine birden fazla solution ekleme

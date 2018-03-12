@@ -1,4 +1,4 @@
-# KONSOL EKRANI VE KOD YAZMAYA GİRİŞ
+## KONSOL EKRANI VE KOD YAZMAYA GİRİŞ
 - Write ve WriteLine komutları
 - Bu metodların içinde kullanılan stringlerde “yer tutucular” kullanılabilir. Böylece bi string içine dışarıdan sırayla bazı değişkenler getirilerek okuma sağlanabilir. 
 
